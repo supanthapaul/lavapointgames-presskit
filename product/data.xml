@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<product>
+  <title>Abashed</title>
+  <release-date>2025</release-date>
+  <website>https://lavapointgames.com/abashed</website>
+
+  <!-- Link to request press copy: -->
+  <press-copy-request></press-copy-request>
+
+  <platforms>
+    <platform>
+      <name>Steam</name>
+      <link>https://store.steampowered.com/app/3116230/Abashed/</link>
+    </platform>
+  </platforms>
+
+  <prices>
+    <price>
+      <currency></currency>
+      <value>TBD</value>
+    </price>
+  </prices>
+
+  <description>
+    Abashed is a 2.5D narrative-driven side-scrolling game that lets you explore the life of Issac, a man living with psychosis. One day waking up all alone, he sets out to find the truth behind his missing partner. On the way he finds himself needing to confront his deepest fears and the darkest secrets. Join Issac in this story of love, loss, fear, and acceptance. Reality is not what it seems.
+  </description>
+
+  <!-- Choose between a single block: -->
+  <!-- <history></history> -->
+
+  <!-- Or multiple blocks: -->
+  
+  <histories>
+    <history>
+      <header></header>
+      <text>The journey of Abashed began with a simple question: What does it mean to confront our deepest fears? Inspired by personal experiences and a fascination with exploring the human psyche, I wanted to create a game that dives into themes of love, loss, trauma, and self-discovery.</text>
+    </history>
+		<history>
+      <header></header>
+      <text>The concept for Abashed came about  during a period of reflection on how our minds construct realities, and how fragile those realities can become when faced with grief and trauma. From the start, the goal was to craft a deeply personal experience—one that could resonate with players and challenge them to see the world from a different perspective.</text>
+    </history>
+		<history>
+      <header></header>
+      <text>The game is as much about Issac's journey as it is about my own—a story of pushing through uncertainty and embracing vulnerability to uncover hidden truths. I hope players find themselves as immersed in this world as I was in creating it.</text>
+    </history>
+  </histories>
+
+  <features>
+    <feature>Psychological adventure set in the mind of Issac, where the line between the real and the surreal blurs.</feature>
+    <feature>Puzzles that involve altering reality, manipulating the environment, finding and using found items.</feature>
+    <feature>Encounter interesting characters, each with their own traits.</feature>
+    <feature>Uncover a narrative rich with emotional depth, exploring themes of mental health.</feature>
+    <feature>Immerse yourself in a unique hand-made art style and hauntingly beautiful environments.</feature>
+  </features>
+
+  <trailers>
+    <trailer>
+      <name>Teaser</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+        JBzd1hW3my4
+      </youtube>
+      <!-- <vimeo> -->
+        <!-- Video ID only, not the full URL -->
+      <!-- </vimeo> -->
+    </trailer>
+  </trailers>
+
+  <!-- You can set your widgets here (optional): -->
+  <widgets>
+	<mailchimp>
+	https://lavapointgames.us21.list-manage.com/subscribe/post?u=5b94f63f34311f37cddddc9c5&amp;id=96947737ac&amp;f_id=001389e6f0</mailchimp>
+    <steam>
+      <!-- Steam ID -->
+      3116230
+    </steam>
+    <!-- <humble> -->
+      <!-- Humble Bundle product/id -->
+      <!-- e.g. mysupergame/42AAbB42dC -->
+    <!-- </humble> -->
+    <!-- <itch> -->
+      <!-- itch.io ID -->
+      <!-- e.g. 42424 -->
+    <!-- </itch> -->
+
+  </widgets>
+
+  <!-- <awards>
+    <award>
+      <description></description>
+      <info></info>
+    </award>
+  </awards>
+
+  <quotes>
+    <quote>
+      <description></description>
+      <name></name>
+      <website></website>
+      <link></link>
+    </quote>
+  </quotes>
+
+  <additionals>
+    <additional>
+      <title></title>
+      <description></description>
+      <link></link>
+    </additional>
+  </additionals> -->
+
+  <credits>
+    <credit>
+      <person>Supantha Paul</person>
+      <role>Developer</role>
+
+      <!-- Optional: -->
+      <website></website>
+    </credit>
+  </credits>
+
+  <contacts>
+    <contact>
+      <name>Email</name>
+
+      <!-- Pick one: -->
+      <mail>supantha@lavapointgames.com</mail>
+      <link></link>
+    </contact>
+		<contact>
+      <name>Twitter/X</name>
+      <link>https://x.com/supanthapaul</link>
+    </contact>
+		<contact>
+      <name>BlueSky</name>
+      <link>https://bsky.app/profile/supanthapaul.bsky.social</link>
+    </contact>
+  </contacts>
+</product>
