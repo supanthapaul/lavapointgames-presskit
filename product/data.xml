@@ -54,6 +54,18 @@
   </features>
 
   <trailers>
+	<trailer>
+      <name>Demo Announcement Trailer</name>
+
+      <!-- Pick one: -->
+      <youtube>
+        <!-- Video ID only, not the full URL -->
+        bkoJuBEMqQI
+      </youtube>
+      <!-- <vimeo> -->
+        <!-- Video ID only, not the full URL -->
+      <!-- </vimeo> -->
+    </trailer>
     <trailer>
       <name>Teaser</name>
 
