@@ -55,29 +55,24 @@
 
   <trailers>
 	<trailer>
-      <name>Demo Launch Trailer</name>
+		<name>Demo Launch Trailer</name>
 
-      <!-- Pick one: -->
-      <youtube>
-        <!-- Video ID only, not the full URL -->
-        mCJk-rFyGWw
-      </youtube>
-      <!-- <vimeo> -->
-        <!-- Video ID only, not the full URL -->
-      <!-- </vimeo> -->
-    </trailer>
-    <trailer>
-      <name>Teaser</name>
+		<youtube>
+			mCJk-rFyGWw
+		</youtube>
+	</trailer>
+	<trailer>
+		<name>Teaser</name>
 
-      <!-- Pick one: -->
-      <youtube>
-        <!-- Video ID only, not the full URL -->
-        JBzd1hW3my4
-      </youtube>
-      <!-- <vimeo> -->
-        <!-- Video ID only, not the full URL -->
-      <!-- </vimeo> -->
-    </trailer>
+		<!-- Pick one: -->
+		<youtube>
+			<!-- Video ID only, not the full URL -->
+			JBzd1hW3my4
+		</youtube>
+		<!-- <vimeo> -->
+			<!-- Video ID only, not the full URL -->
+		<!-- </vimeo> -->
+	</trailer>
   </trailers>
 
   <!-- You can set your widgets here (optional): -->
