@@ -46,7 +46,7 @@
   <description>LavaPoint Games is a solo game studio building Abashed - a narrative-driven game about love, loss, fear, and acceptance.</description>
 
   <!-- Choose between a single block: -->
-  <history>LavaPoint Games was founded with a simple goal: to create something deeply personal—a place where I could pour my heart into telling stories that matter. Growing up, games weren’t just entertainment; they were a way to escape, to dream, and to connect with emotions I couldn’t always put into words. Starting my own studio felt like the natural next step in bringing those experiences to life for others.</history>
+  <history>LavaPoint Games was founded with a simple goal: to create something deeply personal; a place where I could pour my heart into telling stories that matter. Growing up, games weren’t just entertainment; they were a way to escape, to dream, and to connect with emotions I couldn’t always put into words. Starting my own studio felt like the natural next step in bringing those experiences to life for others.</history>
 
   <!-- Or multiple blocks: -->
   <!--
@@ -60,12 +60,12 @@
 
   <trailers>
     <trailer>
-      <name>Abashed Teaser Trailer</name>
+      <name>Abashed Summer Game Fest Trailer</name>
 
       <!-- Pick one: -->
       <youtube>
         <!-- Video ID only, not the full URL -->
-        JBzd1hW3my4
+        ckMgTgAN-S0
       </youtube>
       <!-- <vimeo>
         Video ID only, not the full URL

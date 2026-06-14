@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Abashed</title>
-  <release-date>2025</release-date>
+  <release-date>Q4, 2026</release-date>
   <website>https://lavapointgames.com/abashed</website>
 
   <!-- Link to request press copy: -->
@@ -11,6 +11,10 @@
     <platform>
       <name>Steam</name>
       <link>https://store.steampowered.com/app/3116230/Abashed/</link>
+    </platform>
+		<platform>
+      <name>GOG</name>
+      <link>https://www.gog.com/en/game/abashed</link>
     </platform>
   </platforms>
 
@@ -22,7 +26,7 @@
   </prices>
 
   <description>
-    Abashed is a 2.5D narrative-driven side-scrolling game that lets you explore the life of Issac, a man living with psychosis. One day waking up all alone, he sets out to find the truth behind his missing partner. On the way he finds himself needing to confront his deepest fears and the darkest secrets. Join Issac in this story of love, loss, fear, and acceptance. Reality is not what it seems.
+    Abashed is a 2.5D narrative-driven side-scrolling adventure that lets you explore the life of Issac, a man living with psychosis. One day waking up all alone, he sets out to find the truth behind his missing partner. On the way he finds himself needing to confront his deepest fears and the darkest secrets. Join Issac in this story of love, loss, fear, and acceptance. Reality is not what it seems.
   </description>
 
   <!-- Choose between a single block: -->
@@ -41,7 +45,7 @@
     </history>
 		<history>
       <header></header>
-      <text>The game is as much about Issac's journey as it is about my own—a story of pushing through uncertainty and embracing vulnerability to uncover hidden truths. I hope players find themselves as immersed in this world as I was in creating it.</text>
+      <text>The game is as much about Issac's journey as it is about my own; a story of pushing through uncertainty and embracing vulnerability to uncover hidden truths. I hope players find themselves as immersed in this world as I was in creating it.</text>
     </history>
   </histories>
 
@@ -55,19 +59,19 @@
 
   <trailers>
 	<trailer>
-		<name>Demo Launch Trailer</name>
+		<name>Summer Game Fest Trailer</name>
 
 		<youtube>
-			mCJk-rFyGWw
+			ckMgTgAN-S0
 		</youtube>
 	</trailer>
 	<trailer>
-		<name>Teaser</name>
+		<name>Six One Indie Showcase Trailer</name>
 
 		<!-- Pick one: -->
 		<youtube>
 			<!-- Video ID only, not the full URL -->
-			JBzd1hW3my4
+			3q7faIG1SU4
 		</youtube>
 		<!-- <vimeo> -->
 			<!-- Video ID only, not the full URL -->
