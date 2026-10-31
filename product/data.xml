@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <product>
   <title>Abashed</title>
-  <release-date>2026</release-date>
+  <release-date>November 4, 2026</release-date>
   <website>https://lavapointgames.com/abashed</website>
 
   <!-- Link to request press copy: -->
@@ -20,13 +20,13 @@
 
   <prices>
     <price>
-      <currency></currency>
-      <value>TBD</value>
+      <currency>USD</currency>
+      <value>8.99</value>
     </price>
   </prices>
 
   <description>
-    Abashed is a 2.5D narrative-driven side-scrolling adventure that lets you explore the life of Issac, a man living with psychosis. One day waking up all alone, he sets out to find the truth behind his missing partner. On the way he finds himself needing to confront his deepest fears and the darkest secrets. Join Issac in this story of love, loss, fear, and acceptance. Reality is not what it seems.
+    Abashed is a 2.5D narrative-driven psychological adventure that lets you explore the life of Issac, a man living with psychosis. One day waking up all alone, he sets out to find the truth behind his missing partner. On the way he finds himself needing to confront his deepest fears and the darkest secrets. Join Issac in this story of love, loss, fear, and acceptance. Reality is not what it seems.
   </description>
 
   <!-- Choose between a single block: -->
@@ -59,23 +59,18 @@
 
   <trailers>
 	<trailer>
+		<name>Release Date Trailer</name>
+
+		<youtube>
+			6wwqx2lC-aA
+		</youtube>
+	</trailer>
+	<trailer>
 		<name>Summer Game Fest Trailer</name>
 
 		<youtube>
 			ckMgTgAN-S0
 		</youtube>
-	</trailer>
-	<trailer>
-		<name>Six One Indie Showcase Trailer</name>
-
-		<!-- Pick one: -->
-		<youtube>
-			<!-- Video ID only, not the full URL -->
-			3q7faIG1SU4
-		</youtube>
-		<!-- <vimeo> -->
-			<!-- Video ID only, not the full URL -->
-		<!-- </vimeo> -->
 	</trailer>
   </trailers>
 
